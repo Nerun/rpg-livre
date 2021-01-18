@@ -35,7 +35,8 @@ nossas licenças.
     qualquer material não sujeito à licença. Isso inclui outros
     materiais licenciados sob CC, ou materiais utilizados sob uma
     exceção ou limitação ao direito de autor e direitos conexos. Mais
-    considerações para licenciantes: <shorturl.at/dsxK9>.
+    considerações para licenciantes:
+    wiki.creativecommons.org/Considerations_for_licensors
 
     Considerações para o público: Ao utilizar uma das nossas licenças
     públicas, o licenciante concede ao público permissão para utilizar
@@ -53,7 +54,7 @@ nossas licenças.
     as alterações sejam marcadas ou descritas. Embora não exigido pelas
     nossas licenças, é recomendado que você respeite esses pedidos
     quando razoáveis. Mais considerações para o público:
-    <shorturl.at/agvKR>.
+    wiki.creativecommons.org/Considerations_for_licensees
 
 Licença Pública Creative Commons Atribuição 4.0 Internacional
 ========================================================================
