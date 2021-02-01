@@ -14,4 +14,5 @@ Os jogos são distribuídos cada qual sob sua própria licença. Entre em cada p
 ### Links úteis
 * DILLINGER. [Online Markdown Editor](https://dillinger.io) - ótimo site para testar seus markdowns
 * GITHUB. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - códigos markdown
+* MARKDOWN GUIDE. [Basic Syntax](https://www.markdownguide.org/basic-syntax) - excelente guia
 * URL SHORTENER. [Short URL](https://www.shorturl.at/) - encurta seus links
