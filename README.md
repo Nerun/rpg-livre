@@ -8,7 +8,7 @@ Tem duas formas de baixar:
 
 2. Você tem que ter familiaridade com SVN e GIT:
 
-* No Linux digite no terminal <code>git clone https://github.com/Nerun/rpg-livre.git</code>.
+    * No Linux, digite no terminal: <code>git clone https://github.com/Nerun/rpg-livre.git</code>.
 
 
 ### Aviso de Direitos Autorais
